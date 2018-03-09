@@ -1,6 +1,4 @@
-# DISCONTINUED
-# DISCONTINUED
-# DISCONTINUED
+# Discontinued
 
 # TawGatherMembersInfo
 Automatic gathering of TAW.net members information for automated processing purposes. 
